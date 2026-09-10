@@ -74,3 +74,7 @@ Upload a PDF through the browser interface and use the buttons or the question b
 ├── app.py           # Streamlit web UI
 └── requirements.txt
 \`\`\`
+
+## Architecture
+
+![Architecture diagram](architecture.png)
